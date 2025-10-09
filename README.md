@@ -25,9 +25,9 @@ In my spare time, I develop small projects to explore programming, web technolog
 
 ## 🎓 Certifications
 
-| Certificate | Organization | Date | Link |
-|-------------|--------------|------|------|
-| PostgreSQL for Developers | AWS Training & Certification | October 9, 2025 | *(Private)* |
+| Certificate | Organization | Date | PDF |
+|-------------|--------------|------|-----|
+| PostgreSQL for Developers | AWS Training & Certification | October 9, 2025 | [📄 View PDF](./aws-postgresql-for-developers.pdf) |
 
 
 ---
