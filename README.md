@@ -11,7 +11,7 @@ In my spare time, I develop small projects to explore programming, web technolog
 - **Programming Languages:** Python (data processing, scripting)
 - **Web Technologies:** HTML, CSS (basic)
 - **Databases:** PostgreSQL
-- **Tools & Environments:** Git, Linux, Bash, VS Code
+- **Tools & Environments:** Git, Linux, VS Code
 
 ---
 
