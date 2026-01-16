@@ -23,11 +23,12 @@ In my spare time, I develop small projects to explore programming, web technolog
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Learning
 
 | Certificate | Organization | Date | PDF |
 |-------------|--------------|------|-----|
 | PostgreSQL for Developers | AWS Training & Certification | October 9, 2025 | [📄 View PDF](./aws-postgresql-for-developers.pdf) |
+| CryptoZombies — Solidity (Lesson 1) | CryptoZombies | January 16, 2026 | [Share link](https://share.cryptozombies.io/en/lesson/1/share/Ga%C5%A1per?id=Y3p8NjY4Njg1) |
 
 
 ---
